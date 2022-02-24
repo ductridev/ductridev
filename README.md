@@ -56,8 +56,9 @@
 <h2 align="center">❤ Funding</h2>
 <br>
 
-<span><img src="https://img.shields.io/badge/PayPal-282C34?logo=paypal&logoColor=7952B3" alt="Paypal logo" title="Paypal" height="25" /></span>
-&nbsp;
+<a href="https://www.paypal.com/paypalme/trihd2104" title="ductridev">
+  <img src="https://img.shields.io/badge/PayPal-282C34?logo=paypal&logoColor=7952B3" alt="Paypal logo" title="Paypal" height="25" />
+</a>
 
 <br>
 
