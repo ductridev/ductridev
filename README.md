@@ -16,17 +16,17 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=7952B3" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=white" alt="Python logo" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=7952B3" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=white" alt="C logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=7952B3" alt="C logo" title="C" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=7952B3" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=7952B3" alt="C# logo" title="C#" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=php&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
@@ -46,7 +46,7 @@
 <h2 align="center">💻 Workspace Spec</h2>
 <br>
 
-<span><img src="https://img.shields.io/badge/NVIDIA-GTX1650-282C34?logo=nvidia&logoColor=white" alt="GPU logo" title="GPU" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NVIDIA-GTX1650-282C34?logo=nvidia&logoColor=7952B3" alt="GPU logo" title="GPU" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="CPU logo" title="CPU" height="25" /></span>
 &nbsp;
@@ -56,7 +56,7 @@
 <h2 align="center">❤ Funding</h2>
 <br>
 
-<span><img src="https://img.shields.io/badge/PayPal-282C34?logo=paypal&logoColor=white" alt="Paypal logo" title="Paypal" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PayPal-282C34?logo=paypal&logoColor=7952B3" alt="Paypal logo" title="Paypal" height="25" /></span>
 &nbsp;
 
 <br>
