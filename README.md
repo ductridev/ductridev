@@ -46,9 +46,9 @@
 <h2 align="center">💻 Workspace Spec</h2>
 <br>
 
-<span><img src="https://img.shields.io/badge/NVIDIA-GTX1650-282C34?logo=nvidia&logoColor=7952B3" alt="GPU logo" title="GPU" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?logo=nvidia&logoColor=76B900" alt="GPU logo" title="GPU" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/AMD-Ryzen_7_5700G-282C34?logo=amd&logoColor=21759B" alt="CPU logo" title="CPU" height="25" /></span>
+<span><img src="https://img.shields.io/badge/AMD-Ryzen_7_5700G-ED1C24?logo=amd&logoColor=ED1C24" alt="CPU logo" title="CPU" height="25" /></span>
 &nbsp;
 
 <br>
