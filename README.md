@@ -83,7 +83,7 @@
   <a href="https://facebook.com/tkgaini" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ductridev-facebook" />
   </a>
-  <a href="https://instagram.com/irt19chui" target="blank">
+  <a href="https://instagram.com/tri.2143" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ductridev-instagram" />
   </a>
   <a href="mailto:trihd123@gmail.com" target="top">
