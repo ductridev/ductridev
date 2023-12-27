@@ -80,10 +80,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="@trihd123" target="blank">
+  <a href="https://t.me/@trihd123" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" alt="ductridev-telegram"/>
   </a>
-  <a href="live:trihd123" target="blank">
+  <a href="https://join.skype.com/invite/uExNvNHPl2dZ" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/skype.png" alt="ductridev-skype"/>
   </a>
   <a href="mailto:trihd123@gmail.com" target="top">
