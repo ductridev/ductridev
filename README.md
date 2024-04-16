@@ -1,4 +1,5 @@
 <!-- ductridev -->
+![](https://komarev.com/ghpvc/?username=ductridev&color=blue)
 <a href="#" target="_blank">
   <img src="svg/ductridev.svg" width="1200" alt="Click to see the source" />
 </a>
