@@ -1,8 +1,5 @@
 <!-- ductridev -->
 ![](https://komarev.com/ghpvc/?username=ductridev&color=blue)
-<a href="#" target="_blank">
-  <img src="svg/ductridev.svg" width="1200" alt="Click to see the source" />
-</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -44,16 +41,6 @@
 
 <br>
 
-<h2 align="center">💻 Workspace Spec</h2>
-<br>
-
-<span><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?logo=nvidia&logoColor=76B900" alt="GPU logo" title="GPU" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/AMD-Ryzen_7_5700G-ED1C24?logo=amd&logoColor=ED1C24" alt="CPU logo" title="CPU" height="25" /></span>
-&nbsp;
-
-<br>
-
 <h2 align="center">❤ Funding</h2>
 <br>
 
@@ -72,23 +59,6 @@
   </a>
   <a href="#" title="ductridev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ductridev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://t.me/@trihd123" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" alt="ductridev-telegram"/>
-  </a>
-  <a href="https://join.skype.com/invite/uExNvNHPl2dZ" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/skype.png" alt="ductridev-skype"/>
-  </a>
-  <a href="mailto:trihd123@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ductridev-email" />
   </a>
 </div>
 
