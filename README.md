@@ -41,7 +41,7 @@
 
 <br>
 
-<h2 align="center">❤ Funding</h2>
+<!-- <h2 align="center">❤ Funding</h2>
 <br>
 
 <a href="https://www.paypal.com/paypalme/trihd2104" title="ductridev">
@@ -49,7 +49,7 @@
 </a>
 
 <br>
-
+ -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
